@@ -25,3 +25,6 @@ sh scroll.sh
 ```
 
 https://user-images.githubusercontent.com/16755620/139049383-a5f19efe-53b2-41da-bb96-8a10c1860b18.mp4
+
+## Read
+To know about the above adb command https://github.com/akshayjkumar/adb-shell-cmds#adb-inputs
